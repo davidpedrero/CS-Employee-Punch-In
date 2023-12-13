@@ -8,4 +8,6 @@ function myFunction() {
 
   Logger.log(username);
   Logger.log(password);
+
+  Logger.log("Lets see if this works!")
 }

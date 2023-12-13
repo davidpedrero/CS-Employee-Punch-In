@@ -14,4 +14,5 @@ function myFunction() {
 
   Logger.log("I love you Lucky")
   Logger.log("I love you Lenny")
+  Logger.log("I love you Charlie")
 }

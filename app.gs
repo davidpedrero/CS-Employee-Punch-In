@@ -4,5 +4,8 @@ function myFunction() {
   Logger.log("This is not a test3");
 
   const username = "davidpedrero";
-  const password = "password123"
+  const password = "password123";
+
+  Logger.log(username);
+  Logger.log(password);
 }

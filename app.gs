@@ -13,4 +13,5 @@ function myFunction() {
   Logger.log("Lets see if this for real!");
 
   Logger.log("I love you Lucky")
+  Logger.log("I love you Lenny")
 }
